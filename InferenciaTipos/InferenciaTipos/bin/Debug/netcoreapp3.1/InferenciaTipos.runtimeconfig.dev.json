@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Operação FGV  - TI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Operação FGV  - TI\\.nuget\\packages"
+    ]
+  }
+}

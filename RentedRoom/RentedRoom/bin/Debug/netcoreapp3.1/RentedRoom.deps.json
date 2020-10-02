@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RentedRoom/1.0.0": {
+        "runtime": {
+          "RentedRoom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentedRoom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
